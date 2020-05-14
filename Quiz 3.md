@@ -1,6 +1,6 @@
-# Module 3: Fundamentals of Firewall
+# QUIZ 3: Fundamentals of Firewall
 
-*Questions are scramble
+**P/s**: Questions are scramble
 
 ## Questions and Answer
 
@@ -23,3 +23,5 @@
 9.	Which of the following is a combination of firewalls? = Screened Firewalls
 
 10.	Which of the following are four basic types of Firewalls? = Packet filtering firewall, Application gateway, Circuit-level gateway, Stateful inspection firewall.
+
+**_© AdaniKamal_**
