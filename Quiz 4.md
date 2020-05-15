@@ -1,4 +1,4 @@
-# QUIZ 3: Fundamentals of Firewall
+# QUIZ 4 : Intrusion Detection System
 
 **P/s**: Questions are scramble
 
