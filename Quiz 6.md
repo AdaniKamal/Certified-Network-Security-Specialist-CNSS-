@@ -4,7 +4,7 @@
 
 ## Questions and Answer
 
-1.	1.	Which authentication protocols are available under PPTP? = EAP, CHAP
+1.	Which authentication protocols are available under PPTP? = EAP, CHAP
 
 2.	What is the purpose of IKE? = Key Exchange
 
